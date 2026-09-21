@@ -1,0 +1,23 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+SPDX-License-Identifier: CC-BY-4.0
+
+Copyright (c) 2026 Instituto Nacional de Ciencias Médicas y Nutrición Salvador
+Zubirán and the Nutriyogur study authors
+
+This licence covers everything in this repository that is NOT source code:
+the de-identified, date-shifted glucose exports in data/cgm/, the sensory and
+baseline tables in data/, and the tables and figures that the code writes to
+results/ and figures/.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the
+licence, and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+  Sánchez-Vargas PE, Morales-Guerrero JC, Vázquez-Mata N, Barajas-Martínez A,
+  Cruz-Bautista I, Gómez-Velasco D, Soto-Mota A, Rosas-Romero R,
+  Martagón-Rosado A, Aguilar-Salinas C. Nutriyogur crossover trial — anonymized
+  continuous glucose monitoring data and analysis code. [repository, DOI].
